@@ -129,7 +129,3 @@ The Power BI dashboard contains the following pages:
 
 ---
 
-### 🔁 Feedback Loop  
-**Reasoning:** Markdown uses syntax-based layout (like `|` for tables, `>` for blockquotes). Is formatting ko strictly follow karke likha gaya hai taaki GitHub par perfect render ho.  
-**Pitfall Avoidance:** Inline emojis aur spacing properly escape ki gayi hai.  
-**Verification:** Preview karne ke liye VS Code me `Ctrl+Shift+V` dabake dekh le ya GitHub par commit karke “Preview” me check kar — layout clean and responsive dikhega ✅  
